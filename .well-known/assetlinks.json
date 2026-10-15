@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.raizdigitalbr.twa",
+    "sha256_cert_fingerprints": ["CC:32:A0:49:2E:55:FC:17:88:AD:87:FF:94:76:63:6B:34:AF:47:80:50:AA:C5:0D:0E:CC:84:2C:6E:B1:F5:21"]
+  }
+}]
